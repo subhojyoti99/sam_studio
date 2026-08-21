@@ -55,13 +55,13 @@ button {
   font-weight: 700;
 }
 .brand-sub {
-  font-size: 9px;
+  font-size: 20px;
   letter-spacing: 0.3em;
 }
 .navlinks {
   display: flex;
   gap: 30px;
-  font-size: 10px;
+  font-size: 16px;
   letter-spacing: 0.14em;
   text-transform: uppercase;
 }
@@ -71,7 +71,7 @@ button {
   gap: 7px;
   border-bottom: 1px solid #fff;
   padding-bottom: 5px;
-  font-size: 10px;
+  font-size: 16px;
   letter-spacing: 0.1em;
   text-transform: uppercase;
 }
@@ -110,7 +110,7 @@ button {
 }
 .eyebrow,
 .sectionTag {
-  font-size: 10px;
+  font-size: 16px;
   letter-spacing: 0.22em;
   text-transform: uppercase;
 }
@@ -129,7 +129,7 @@ h2 em {
   font-style: italic;
 }
 .heroText {
-  font-size: 14px;
+  font-size: 20px;
   line-height: 1.8;
   max-width: 470px;
   color: #eee;
@@ -148,7 +148,7 @@ h2 em {
   align-items: center;
   gap: 10px;
   padding: 15px 21px;
-  font-size: 10px;
+  font-size: 16px;
   letter-spacing: 0.14em;
   text-transform: uppercase;
 }
@@ -173,7 +173,7 @@ h2 em {
   right: 9vw;
   display: flex;
   justify-content: space-between;
-  font-size: 9px;
+  font-size: 20px;
   letter-spacing: 0.17em;
 }
 .quickFacts {
@@ -199,14 +199,14 @@ h2 em {
   flex: none;
 }
 .quickFacts span {
-  font-size: 10px;
+  font-size: 16px;
   line-height: 1.7;
   color: #bdb7b0;
 }
 .quickFacts b {
   display: block;
   color: #fff;
-  font-size: 10px;
+  font-size: 16px;
   text-transform: uppercase;
   letter-spacing: 0.09em;
 }
@@ -233,10 +233,10 @@ h2 em {
   max-width: 590px;
   color: var(--muted);
   line-height: 1.9;
-  font-size: 14px;
+  font-size: 20px;
 }
 .intro .smallNote {
-  font-size: 12px;
+  font-size: 18px;
   margin-top: 18px;
 }
 .textLink {
@@ -244,7 +244,7 @@ h2 em {
   gap: 8px;
   align-items: center;
   margin-top: 18px;
-  font-size: 10px;
+  font-size: 16px;
   text-transform: uppercase;
   letter-spacing: 0.16em;
   border-bottom: 1px solid var(--ink);
@@ -268,7 +268,7 @@ h2 em {
   max-width: 530px;
   color: #aaa;
   line-height: 1.8;
-  font-size: 13px;
+  font-size: 18px;
 }
 .sectionHead {
   display: flex;
@@ -283,7 +283,7 @@ h2 em {
 .sectionLead {
   max-width: 330px;
   color: var(--muted);
-  font-size: 12px;
+  font-size: 18px;
   line-height: 1.8;
   margin-top: 35px;
 }
@@ -312,7 +312,7 @@ h2 em {
   top: 18px;
   left: 18px;
   color: #fff;
-  font-size: 10px;
+  font-size: 16px;
   letter-spacing: 0.16em;
 }
 .serviceIcon {
@@ -342,7 +342,7 @@ h2 em {
 }
 .serviceInfo p {
   color: var(--muted);
-  font-size: 12px;
+  font-size: 18px;
   margin: 5px 0;
 }
 .serviceInfo button {
@@ -371,7 +371,7 @@ h2 em {
   padding: 16px 0;
 }
 .serviceItems span {
-  font-size: 10px;
+  font-size: 16px;
   text-transform: uppercase;
   letter-spacing: 0.08em;
   color: #5f5952;
@@ -405,11 +405,11 @@ h2 em {
   padding-top: 17px;
 }
 .principles b {
-  font-size: 10px;
+  font-size: 16px;
   color: var(--accent);
 }
 .principles span {
-  font-size: 12px;
+  font-size: 18px;
   line-height: 1.7;
   color: #716960;
 }
@@ -438,7 +438,7 @@ h2 em {
 }
 .resultCard span,
 .resultCard.image span {
-  font-size: 9px;
+  font-size: 20px;
   letter-spacing: 0.18em;
 }
 .resultCard h3 {
@@ -448,7 +448,7 @@ h2 em {
   margin: 15px 0;
 }
 .resultCard p {
-  font-size: 11px;
+  font-size: 16px;
   line-height: 1.6;
   color: #77716a;
 }
@@ -536,12 +536,12 @@ h2 em {
 }
 .stars {
   letter-spacing: 0.3em;
-  font-size: 13px;
+  font-size: 18px;
   color: #9b7d49;
 }
 .reviewCount,
 .reviewDisclaimer {
-  font-size: 10px;
+  font-size: 16px;
   letter-spacing: 0.1em;
   color: var(--muted);
   text-transform: uppercase;
@@ -554,7 +554,7 @@ h2 em {
   margin: 45px auto 35px;
 }
 .reviewDisclaimer {
-  font-size: 9px;
+  font-size: 20px;
   max-width: 600px;
   margin: 30px auto;
 }
@@ -580,7 +580,7 @@ h2 em {
   position: absolute;
   right: 9vw;
   bottom: 22px;
-  font-size: 9px;
+  font-size: 20px;
   letter-spacing: 0.12em;
   color: #6f675f;
   display: flex;
@@ -595,7 +595,7 @@ footer {
   gap: 30px;
 }
 footer p {
-  font-size: 10px;
+  font-size: 16px;
   letter-spacing: 0.12em;
   color: #aaa;
 }
@@ -604,7 +604,7 @@ footer p {
   display: flex;
   align-items: center;
   gap: 24px;
-  font-size: 10px;
+  font-size: 16px;
   color: #ccc;
 }
 .footerBrand {
@@ -865,7 +865,7 @@ footer p {
 }
 .teamInfo p {
   margin: 0;
-  font-size: 13px;
+  font-size: 18px;
   color: var(--muted);
 }
 .brands {
@@ -901,7 +901,7 @@ footer p {
 }
 .marqueeTrack span::after {
   content: "?";
-  font-size: 14px;
+  font-size: 20px;
   opacity: 0.5;
 }
 @keyframes marquee {
